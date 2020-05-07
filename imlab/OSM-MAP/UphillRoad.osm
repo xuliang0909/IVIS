@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='34.7273878' minlon='109.2220989' maxlat='34.7280105' maxlon='109.2247837' origin='CGImap 0.8.2 (10043 thorn-01.openstreetmap.org)' />
+  <node id='-38982' action='modify' visible='true' lat='34.7274487576' lon='109.22216686686' />
+  <node id='-38983' action='modify' visible='true' lat='34.72797493067' lon='109.22470086691' />
+  <way id='-38984' action='modify' visible='true'>
+    <nd ref='-38982' />
+    <nd ref='-38983' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='2' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='no' />
+    <tag k='width' v='4' />
+  </way>
+</osm>

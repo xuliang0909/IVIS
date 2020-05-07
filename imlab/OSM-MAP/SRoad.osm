@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='0.0248508' minlon='-0.0099271' maxlat='0.0249201' maxlon='-0.0097398' origin='CGImap 0.8.2 (10043 thorn-01.openstreetmap.org)' />
+  <node id='-38990' action='modify' visible='true' lat='0.02491070383' lon='-0.00991340113' />
+  <node id='-38992' action='modify' visible='true' lat='0.02489526404' lon='-0.00990989208' />
+  <node id='-38994' action='modify' visible='true' lat='0.0248840351' lon='-0.00990533033' />
+  <node id='-38996' action='modify' visible='true' lat='0.02487420978' lon='-0.00989620681' />
+  <node id='-38998' action='modify' visible='true' lat='0.0248682444' lon='-0.00988532878' />
+  <node id='-39000' action='modify' visible='true' lat='0.02486648988' lon='-0.00987374893' />
+  <node id='-39002' action='modify' visible='true' lat='0.02486508626' lon='-0.00986462542' />
+  <node id='-39004' action='modify' visible='true' lat='0.0248678935' lon='-0.0098555019' />
+  <node id='-39006' action='modify' visible='true' lat='0.02487350797' lon='-0.00984427296' />
+  <node id='-39008' action='modify' visible='true' lat='0.0248840351' lon='-0.00983514945' />
+  <node id='-39010' action='modify' visible='true' lat='0.02489386042' lon='-0.00982953497' />
+  <node id='-39012' action='modify' visible='true' lat='0.02490158032' lon='-0.00982532412' />
+  <node id='-39014' action='modify' visible='true' lat='0.0249078966' lon='-0.00981830603' />
+  <node id='-39016' action='modify' visible='true' lat='0.02491140564' lon='-0.00981128795' />
+  <node id='-39018' action='modify' visible='true' lat='0.02491421287' lon='-0.00980216443' />
+  <node id='-39020' action='modify' visible='true' lat='0.02491351107' lon='-0.0097916373' />
+  <node id='-39022' action='modify' visible='true' lat='0.02491000202' lon='-0.00978146107' />
+  <node id='-39024' action='modify' visible='true' lat='0.02490228213' lon='-0.00977303937' />
+  <node id='-39026' action='modify' visible='true' lat='0.02489666766' lon='-0.00976847761' />
+  <node id='-39028' action='modify' visible='true' lat='0.02488964957' lon='-0.00976321404' />
+  <node id='-39030' action='modify' visible='true' lat='0.02488289466' lon='-0.00975909091' />
+  <node id='-39032' action='modify' visible='true' lat='0.02487736792' lon='-0.00975619595' />
+  <node id='-39034' action='modify' visible='true' lat='0.02487280616' lon='-0.00975391507' />
+  <way id='-39038' action='modify' visible='true'>
+    <nd ref='-38990' />
+    <nd ref='-38992' />
+    <nd ref='-38994' />
+    <nd ref='-38996' />
+    <nd ref='-38998' />
+    <nd ref='-39000' />
+    <nd ref='-39002' />
+    <nd ref='-39004' />
+    <nd ref='-39006' />
+    <nd ref='-39008' />
+    <nd ref='-39010' />
+    <nd ref='-39012' />
+    <nd ref='-39014' />
+    <nd ref='-39016' />
+    <nd ref='-39018' />
+    <nd ref='-39020' />
+    <nd ref='-39022' />
+    <nd ref='-39024' />
+    <nd ref='-39026' />
+    <nd ref='-39028' />
+    <nd ref='-39030' />
+    <nd ref='-39032' />
+    <nd ref='-39034' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='no' />
+    <tag k='width' v='4' />
+  </way>
+</osm>

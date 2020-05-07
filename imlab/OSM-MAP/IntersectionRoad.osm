@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='0.0067219' minlon='-0.0216725' maxlat='0.0076277' maxlon='-0.0207112' origin='CGImap 0.8.2 (10043 thorn-01.openstreetmap.org)' />
+  <node id='-101802' action='modify' visible='true' lat='0.00716168447' lon='-0.02119150327' />
+  <node id='-101803' action='modify' visible='true' lat='0.00754251526' lon='-0.02119150317' />
+  <node id='-101804' action='modify' visible='true' lat='0.00716157267' lon='-0.02078879799' />
+  <node id='-101805' action='modify' visible='true' lat='0.00716352775' lon='-0.02157693166' />
+  <node id='-101806' action='modify' visible='true' lat='0.00678913868' lon='-0.02119334384' />
+  <way id='-101820' action='modify' visible='true'>
+    <nd ref='-101802' />
+    <nd ref='-101806' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+  <way id='-101821' action='modify' visible='true'>
+    <nd ref='-101802' />
+    <nd ref='-101804' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+  <way id='-101822' action='modify' visible='true'>
+    <nd ref='-101805' />
+    <nd ref='-101802' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+  <way id='-101823' action='modify' visible='true'>
+    <nd ref='-101803' />
+    <nd ref='-101802' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+</osm>

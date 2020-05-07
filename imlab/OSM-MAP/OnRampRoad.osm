@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='34.72652' minlon='109.22164' maxlat='34.72903' maxlon='109.22458' origin='CGImap 0.8.2 (10043 thorn-01.openstreetmap.org)' />
+  <node id='3653607021' timestamp='2015-07-16T02:55:31Z' uid='597625' user='sjhbcc' visible='true' version='1' changeset='32665187' lat='34.7289275' lon='109.2217224' />
+  <node id='3653607022' timestamp='2018-01-10T07:10:17Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459' lat='34.7287288' lon='109.2289136'>
+    <tag k='highway' v='motorway_junction' />
+  </node>
+  <node id='3653607028' timestamp='2018-01-10T07:10:17Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459' lat='34.7278726' lon='109.2230361' />
+  <node id='3653607029' timestamp='2018-01-10T07:10:17Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459' lat='34.7273506' lon='109.2234131' />
+  <node id='3653607030' timestamp='2018-01-10T07:10:17Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459' lat='34.7266097' lon='109.2233019' />
+  <node id='3653607043' timestamp='2018-01-10T07:10:17Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459' lat='34.7273408' lon='109.2237468' />
+  <node id='3653607044' timestamp='2018-01-10T07:10:17Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459' lat='34.7270011' lon='109.2240711' />
+  <node id='5330601886' timestamp='2018-01-10T07:09:30Z' uid='17497' user='katpatuka' visible='true' version='1' changeset='55313459' lat='34.7270031' lon='109.2234422' />
+  <node id='5330601906' timestamp='2018-01-10T07:09:30Z' uid='17497' user='katpatuka' visible='true' version='1' changeset='55313459' lat='34.7275182' lon='109.2233155' />
+  <node id='5330601914' timestamp='2018-01-10T07:09:31Z' uid='17497' user='katpatuka' visible='true' version='1' changeset='55313459' lat='34.7276282' lon='109.2234' />
+  <way id='360807709' action='modify' timestamp='2018-01-10T07:10:15Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459'>
+    <nd ref='3653607021' />
+    <nd ref='3653607028' />
+    <nd ref='5330601906' />
+    <nd ref='3653607029' />
+    <nd ref='5330601886' />
+    <nd ref='3653607030' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='digitalGlobe' />
+  </way>
+  <way id='360807713' timestamp='2018-01-10T07:10:15Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459'>
+    <nd ref='3653607028' />
+    <nd ref='5330601914' />
+    <nd ref='3653607043' />
+    <nd ref='3653607044' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>

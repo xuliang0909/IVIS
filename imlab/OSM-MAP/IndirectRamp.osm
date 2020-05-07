@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='7.32954' minlon='8.88424' maxlat='7.33192' maxlon='8.88604' origin='CGImap 0.8.2 (10043 thorn-01.openstreetmap.org)' />
+  <node id='-102361' action='modify' visible='true' lat='7.32956951004' lon='8.88486500347' />
+  <node id='-102362' action='modify' visible='true' lat='7.33175789178' lon='8.88486500347' />
+  <node id='-102363' action='modify' visible='true' lat='7.33111749538' lon='8.88486500347' />
+  <node id='-102364' action='modify' visible='true' lat='7.33050217842' lon='8.88498711829' />
+  <node id='-102365' action='modify' visible='true' lat='7.329597283' lon='8.88545733019' />
+  <node id='-102366' action='modify' visible='true' lat='7.33089753779' lon='8.88489308573' />
+  <node id='-102367' action='modify' visible='true' lat='7.33012907773' lon='8.88512187119' />
+  <node id='-102368' action='modify' visible='true' lat='7.33031840684' lon='8.88504046418' />
+  <node id='-102369' action='modify' visible='true' lat='7.33070124543' lon='8.88493379064' />
+  <node id='-102370' action='modify' visible='true' lat='7.32972117443' lon='8.88534224337' />
+  <node id='-102371' action='modify' visible='true' lat='7.32987013561' lon='8.88525381406' />
+  <way id='-102187' action='modify' visible='true'>
+    <nd ref='-102361' />
+    <nd ref='-102363' />
+    <nd ref='-102362' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+  <way id='-102188' action='modify' visible='true'>
+    <nd ref='-102365' />
+    <nd ref='-102370' />
+    <nd ref='-102371' />
+    <nd ref='-102367' />
+    <nd ref='-102368' />
+    <nd ref='-102364' />
+    <nd ref='-102369' />
+    <nd ref='-102366' />
+    <nd ref='-102363' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+</osm>

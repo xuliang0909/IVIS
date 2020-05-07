@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='34.72712' minlon='109.22184' maxlat='34.72873' maxlon='109.22498' origin='CGImap 0.8.2 (10043 thorn-01.openstreetmap.org)' />
+  <node id='-38980' action='modify' visible='true' lat='34.72749489988' lon='109.22290696329' />
+  <node id='-38982' action='modify' visible='true' lat='34.72800790126' lon='109.22290696329'>
+    <tag k='junction' v='yes' />
+  </node>
+  <node id='-38984' action='modify' visible='true' lat='34.72862218352' lon='109.22290696329' />
+  <node id='-38986' action='modify' visible='true' lat='34.72826457402' lon='109.22298275864' />
+  <node id='-38988' action='modify' visible='true' lat='34.72813998712' lon='109.22293222841' />
+  <node id='-38990' action='modify' visible='true' lat='34.72842146327' lon='109.22316803336' />
+  <node id='-38992' action='modify' visible='true' lat='34.72837762494' lon='109.22307820464' />
+  <node id='-38994' action='modify' visible='true' lat='34.72842895923' lon='109.22335401551' />
+  <node id='-38996' action='modify' visible='true' lat='34.72844222539' lon='109.2232578677' />
+  <node id='-38998' action='modify' visible='true' lat='34.72834589975' lon='109.22351122279' />
+  <node id='-39000' action='modify' visible='true' lat='34.72840184838' lon='109.22342981296' />
+  <node id='-39002' action='modify' visible='true' lat='34.72828187601' lon='109.22356245483' />
+  <node id='-39004' action='modify' visible='true' lat='34.72821843306' lon='109.2236010494' />
+  <node id='-39006' action='modify' visible='true' lat='34.72773746495' lon='109.22361536289' />
+  <node id='-39008' action='modify' visible='true' lat='34.72814789721' lon='109.22361406978' />
+  <node id='3653607022' action='delete' timestamp='2018-01-10T07:10:17Z' uid='17497' user='katpatuka' visible='true' version='2' changeset='55313459' lat='34.7287288' lon='109.2289136'>
+    <tag k='highway' v='motorway_junction' />
+  </node>
+  <way id='-39011' action='modify' visible='true'>
+    <nd ref='-38982' />
+    <nd ref='-38988' />
+    <nd ref='-38986' />
+    <nd ref='-38992' />
+    <nd ref='-38990' />
+    <nd ref='-38996' />
+    <nd ref='-38994' />
+    <nd ref='-39000' />
+    <nd ref='-38998' />
+    <nd ref='-39002' />
+    <nd ref='-39004' />
+    <nd ref='-39008' />
+    <nd ref='-39006' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+  <way id='-39013' action='modify' visible='true'>
+    <nd ref='-38980' />
+    <nd ref='-38982' />
+    <nd ref='-38984' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='width' v='4' />
+  </way>
+</osm>
